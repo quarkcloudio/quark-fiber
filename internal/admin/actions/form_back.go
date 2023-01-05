@@ -1,7 +1,7 @@
 package actions
 
 import (
-	"github.com/quarkcms/quark-go/pkg/ui/admin/actions"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/actions"
 )
 
 type FormBack struct {

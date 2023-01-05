@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/mix"
+	"github.com/quarkcms/quark-fiber/internal/mix"
 )
 
 type Form struct{}

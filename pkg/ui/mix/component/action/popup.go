@@ -1,6 +1,6 @@
 package action
 
-import "github.com/quarkcms/quark-go/pkg/ui/mix/component"
+import "github.com/quarkcms/quark-fiber/pkg/ui/mix/component"
 
 type Popup struct {
 	component.Element

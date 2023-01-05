@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/framework/db"
-	"github.com/quarkcms/quark-go/pkg/framework/token"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/pkg/framework/token"
 	"github.com/xuri/excelize/v2"
 )
 

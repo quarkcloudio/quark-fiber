@@ -2,8 +2,8 @@ package dashboards
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/admin/metrics"
-	"github.com/quarkcms/quark-go/pkg/ui/admin"
+	"github.com/quarkcms/quark-fiber/internal/admin/metrics"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin"
 )
 
 type Index struct {

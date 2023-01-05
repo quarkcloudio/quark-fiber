@@ -2,8 +2,8 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/http/controllers"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/http/middleware"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/http/controllers"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/http/middleware"
 )
 
 type Admin struct{}

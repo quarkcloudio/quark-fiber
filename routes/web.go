@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/http/controllers"
+	"github.com/quarkcms/quark-fiber/internal/http/controllers"
 )
 
 type Web struct{}

@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/quarkcms/quark-go/pkg/framework/env"
+	"github.com/quarkcms/quark-fiber/pkg/framework/env"
 )
 
 var Database = map[string]interface{}{

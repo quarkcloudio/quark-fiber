@@ -8,9 +8,9 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/filesystem"
-	"github.com/quarkcms/quark-go/internal/http/middleware"
-	"github.com/quarkcms/quark-go/internal/providers"
-	"github.com/quarkcms/quark-go/pkg/framework/config"
+	"github.com/quarkcms/quark-fiber/internal/http/middleware"
+	"github.com/quarkcms/quark-fiber/internal/providers"
+	"github.com/quarkcms/quark-fiber/pkg/framework/config"
 )
 
 type Kernel struct{}

@@ -1,6 +1,6 @@
 package swiper
 
-import "github.com/quarkcms/quark-go/pkg/ui/mix/component"
+import "github.com/quarkcms/quark-fiber/pkg/ui/mix/component"
 
 type SwiperDot struct {
 	component.Element

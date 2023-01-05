@@ -10,7 +10,7 @@ import (
 
 	"github.com/derekstavis/go-qs"
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
 )
 
 // 创建请求的验证器

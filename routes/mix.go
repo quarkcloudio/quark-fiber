@@ -2,9 +2,9 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/mix/controllers"
-	"github.com/quarkcms/quark-go/internal/mix/middleware"
-	mixcontrollers "github.com/quarkcms/quark-go/pkg/ui/mix/http/controllers"
+	"github.com/quarkcms/quark-fiber/internal/mix/controllers"
+	"github.com/quarkcms/quark-fiber/internal/mix/middleware"
+	mixcontrollers "github.com/quarkcms/quark-fiber/pkg/ui/mix/http/controllers"
 )
 
 type Mix struct{}

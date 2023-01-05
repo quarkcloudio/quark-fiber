@@ -4,13 +4,13 @@ import (
 	"reflect"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/models"
-	"github.com/quarkcms/quark-go/pkg/framework/config"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/footer"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/layout"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/page"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/pagecontainer"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/internal/models"
+	"github.com/quarkcms/quark-fiber/pkg/framework/config"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/footer"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/layout"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/page"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/pagecontainer"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 )
 
 // 结构体

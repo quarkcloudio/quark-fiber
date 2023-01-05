@@ -1,4 +1,4 @@
-module github.com/quarkcms/quark-go
+module github.com/quarkcms/quark-fiber
 
 go 1.18
 

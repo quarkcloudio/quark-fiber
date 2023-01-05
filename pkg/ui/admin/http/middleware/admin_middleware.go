@@ -2,8 +2,8 @@ package middleware
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/models"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/internal/models"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 )
 
 type AdminMiddleware struct{}

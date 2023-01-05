@@ -1,8 +1,8 @@
 package admin
 
 import (
-	"github.com/quarkcms/quark-go/internal/admin/dashboards"
-	"github.com/quarkcms/quark-go/internal/admin/resources"
+	"github.com/quarkcms/quark-fiber/internal/admin/dashboards"
+	"github.com/quarkcms/quark-fiber/internal/admin/resources"
 )
 
 // 注册服务

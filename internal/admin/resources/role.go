@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/admin/actions"
-	"github.com/quarkcms/quark-go/internal/admin/searches"
-	"github.com/quarkcms/quark-go/internal/models"
-	"github.com/quarkcms/quark-go/pkg/framework/db"
-	"github.com/quarkcms/quark-go/pkg/ui/admin"
+	"github.com/quarkcms/quark-fiber/internal/admin/actions"
+	"github.com/quarkcms/quark-fiber/internal/admin/searches"
+	"github.com/quarkcms/quark-fiber/internal/models"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin"
 	"gorm.io/gorm"
 )
 

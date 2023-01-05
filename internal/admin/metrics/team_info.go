@@ -1,8 +1,8 @@
 package metrics
 
 import (
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/descriptions"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/metrics"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/descriptions"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/metrics"
 )
 
 type TeamInfo struct {
@@ -27,7 +27,7 @@ func (p *TeamInfo) Calculate() *descriptions.Component {
 		field.Text("联系方式").SetValue("dai_hang_love@126.com"),
 		field.Text("官方网址").SetValue("<a href='https://www.quarkcms.com' target='_blank'>www.quarkcms.com</a>"),
 		field.Text("文档地址").SetValue("<a href='https://www.quarkcms.com' target='_blank'>查看文档</a>"),
-		field.Text("BUG反馈").SetValue("<a href='https://github.com/quarkcms/quark-go/issues' target='_blank'>提交BUG</a>"),
-		field.Text("代码仓储").SetValue("<a href='https://github.com/quarkcms/quark-go' target='_blank'>Github</a>"),
+		field.Text("BUG反馈").SetValue("<a href='https://github.com/quarkcms/quark-fiber/issues' target='_blank'>提交BUG</a>"),
+		field.Text("代码仓储").SetValue("<a href='https://github.com/quarkcms/quark-fiber' target='_blank'>Github</a>"),
 	})
 }

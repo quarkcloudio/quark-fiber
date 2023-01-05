@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/admin"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/internal/admin"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 	"gorm.io/gorm"
 )
 

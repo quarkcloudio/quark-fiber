@@ -12,11 +12,11 @@ import (
 
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/models"
-	"github.com/quarkcms/quark-go/pkg/framework/db"
-	"github.com/quarkcms/quark-go/pkg/framework/msg"
-	"github.com/quarkcms/quark-go/pkg/framework/rand"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/internal/models"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/pkg/framework/msg"
+	"github.com/quarkcms/quark-fiber/pkg/framework/rand"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 )
 
 type File struct{}

@@ -5,7 +5,7 @@ import (
 
 	fiber "github.com/gofiber/fiber/v2"
 	session "github.com/gofiber/fiber/v2/middleware/session"
-	"github.com/quarkcms/quark-go/pkg/framework/config"
+	"github.com/quarkcms/quark-fiber/pkg/framework/config"
 )
 
 var store = session.New()

@@ -4,9 +4,9 @@ import (
 	"reflect"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/ui/native/component/navigator"
-	"github.com/quarkcms/quark-go/pkg/ui/native/component/page"
-	"github.com/quarkcms/quark-go/pkg/ui/native/component/view"
+	"github.com/quarkcms/quark-fiber/pkg/ui/native/component/navigator"
+	"github.com/quarkcms/quark-fiber/pkg/ui/native/component/page"
+	"github.com/quarkcms/quark-fiber/pkg/ui/native/component/view"
 )
 
 // 结构体

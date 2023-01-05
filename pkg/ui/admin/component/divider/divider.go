@@ -1,6 +1,6 @@
 package divider
 
-import "github.com/quarkcms/quark-go/pkg/ui/admin/component"
+import "github.com/quarkcms/quark-fiber/pkg/ui/admin/component"
 
 type Component struct {
 	component.Element

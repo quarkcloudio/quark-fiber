@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 
 	"github.com/fatih/color"
-	"github.com/quarkcms/quark-go/database"
-	"github.com/quarkcms/quark-go/internal/models"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/database"
+	"github.com/quarkcms/quark-fiber/internal/models"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 )
 
 type Install struct {

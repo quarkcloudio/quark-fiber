@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/quarkcms/quark-go/internal/console/commands"
+	"github.com/quarkcms/quark-fiber/internal/console/commands"
 )
 
 type Kernel struct{}

@@ -2,9 +2,9 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/native/controllers"
-	"github.com/quarkcms/quark-go/internal/native/middleware"
-	nativecontrollers "github.com/quarkcms/quark-go/pkg/ui/native/http/controllers"
+	"github.com/quarkcms/quark-fiber/internal/native/controllers"
+	"github.com/quarkcms/quark-fiber/internal/native/middleware"
+	nativecontrollers "github.com/quarkcms/quark-fiber/pkg/ui/native/http/controllers"
 )
 
 type Native struct{}

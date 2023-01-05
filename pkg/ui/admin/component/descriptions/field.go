@@ -1,8 +1,8 @@
 package descriptions
 
 import (
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/descriptions/fields"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/descriptions/fields"
 )
 
 type Field struct {

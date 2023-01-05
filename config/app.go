@@ -1,13 +1,13 @@
 package config
 
 import (
-	"github.com/quarkcms/quark-go/pkg/framework/env"
+	"github.com/quarkcms/quark-fiber/pkg/framework/env"
 )
 
 var App = map[string]interface{}{
 
 	// 应用名称
-	"name": env.Get("APP_NAME", "QuarkGo"),
+	"name": env.Get("APP_NAME", "QuarkFiber"),
 
 	// 服务地址
 	"host": env.Get("APP_HOST", "127.0.0.1:3000"),

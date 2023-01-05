@@ -10,10 +10,10 @@ import (
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/framework/rand"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/space"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/tpl"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/pkg/framework/rand"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/space"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/tpl"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 	"github.com/xuri/excelize/v2"
 	"gorm.io/gorm"
 )

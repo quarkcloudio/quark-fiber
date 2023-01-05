@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/quarkcms/quark-go/pkg/framework/config"
+	"github.com/quarkcms/quark-fiber/pkg/framework/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"

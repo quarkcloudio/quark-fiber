@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/go-basic/uuid"
-	"github.com/quarkcms/quark-go/pkg/framework/db"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 	"gorm.io/gorm"
 )
 

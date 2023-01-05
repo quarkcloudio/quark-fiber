@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/native"
+	"github.com/quarkcms/quark-fiber/internal/native"
 )
 
 type Page struct{}

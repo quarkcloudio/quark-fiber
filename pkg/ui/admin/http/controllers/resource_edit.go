@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/framework/msg"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/http/requests"
+	"github.com/quarkcms/quark-fiber/pkg/framework/msg"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/http/requests"
 )
 
 type ResourceEdit struct{}

@@ -2,9 +2,9 @@ package forms
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/framework/msg"
-	"github.com/quarkcms/quark-go/pkg/ui/mix/component/navbar"
-	"github.com/quarkcms/quark-go/pkg/ui/mix/resources"
+	"github.com/quarkcms/quark-fiber/pkg/framework/msg"
+	"github.com/quarkcms/quark-fiber/pkg/ui/mix/component/navbar"
+	"github.com/quarkcms/quark-fiber/pkg/ui/mix/resources"
 )
 
 type Index struct {

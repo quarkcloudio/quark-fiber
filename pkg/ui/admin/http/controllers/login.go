@@ -4,12 +4,12 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/internal/models"
-	"github.com/quarkcms/quark-go/pkg/framework/config"
-	"github.com/quarkcms/quark-go/pkg/framework/hash"
-	"github.com/quarkcms/quark-go/pkg/framework/msg"
-	"github.com/quarkcms/quark-go/pkg/framework/token"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/login"
+	"github.com/quarkcms/quark-fiber/internal/models"
+	"github.com/quarkcms/quark-fiber/pkg/framework/config"
+	"github.com/quarkcms/quark-fiber/pkg/framework/hash"
+	"github.com/quarkcms/quark-fiber/pkg/framework/msg"
+	"github.com/quarkcms/quark-fiber/pkg/framework/token"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/login"
 )
 
 type Login struct{}

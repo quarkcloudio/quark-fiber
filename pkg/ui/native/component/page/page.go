@@ -1,6 +1,6 @@
 package page
 
-import "github.com/quarkcms/quark-go/pkg/ui/native/component"
+import "github.com/quarkcms/quark-fiber/pkg/ui/native/component"
 
 type Component struct {
 	component.Element

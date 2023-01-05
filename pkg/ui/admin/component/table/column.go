@@ -1,7 +1,7 @@
 package table
 
 import (
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component"
 )
 
 type Column struct {

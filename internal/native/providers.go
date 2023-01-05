@@ -1,7 +1,7 @@
 package native
 
 import (
-	"github.com/quarkcms/quark-go/internal/native/resources/pages"
+	"github.com/quarkcms/quark-fiber/internal/native/resources/pages"
 )
 
 // 注册服务

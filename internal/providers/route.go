@@ -2,7 +2,7 @@ package providers
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/routes"
+	"github.com/quarkcms/quark-fiber/routes"
 )
 
 // 结构体

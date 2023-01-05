@@ -3,7 +3,7 @@ package config
 import (
 	"strings"
 
-	"github.com/quarkcms/quark-go/config"
+	"github.com/quarkcms/quark-fiber/config"
 )
 
 var configs = make(map[string]interface{})

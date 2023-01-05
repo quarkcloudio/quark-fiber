@@ -1,7 +1,7 @@
 package form
 
 import (
-	"github.com/quarkcms/quark-go/pkg/ui/mix/component"
+	"github.com/quarkcms/quark-fiber/pkg/ui/mix/component"
 )
 
 type Component struct {

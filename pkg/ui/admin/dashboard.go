@@ -2,11 +2,11 @@ package admin
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/card"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/descriptions"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/grid"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/statistic"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/card"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/descriptions"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/grid"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/statistic"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 )
 
 // 资源结构体

@@ -1,6 +1,6 @@
 package list
 
-import "github.com/quarkcms/quark-go/pkg/ui/mix/component"
+import "github.com/quarkcms/quark-fiber/pkg/ui/mix/component"
 
 type Component struct {
 	component.Element

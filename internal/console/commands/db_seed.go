@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/fatih/color"
-	"github.com/quarkcms/quark-go/database"
+	"github.com/quarkcms/quark-fiber/database"
 )
 
 type DBSeed struct {

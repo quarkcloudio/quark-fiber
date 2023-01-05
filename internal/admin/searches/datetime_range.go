@@ -2,7 +2,7 @@ package searches
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/searches"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/searches"
 	"gorm.io/gorm"
 )
 

@@ -9,7 +9,7 @@ import (
 
 	"github.com/go-basic/uuid"
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/table"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/table"
 )
 
 type Item struct {

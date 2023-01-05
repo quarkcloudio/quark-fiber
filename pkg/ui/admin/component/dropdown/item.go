@@ -1,8 +1,8 @@
 package dropdown
 
 import (
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/component/action"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/component/action"
 )
 
 type Item struct {

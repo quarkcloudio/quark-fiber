@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/ui/mix/http/requests"
+	"github.com/quarkcms/quark-fiber/pkg/ui/mix/http/requests"
 )
 
 type ResourceForm struct{}

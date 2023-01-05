@@ -6,7 +6,7 @@ import (
 	"github.com/dchest/captcha"
 	"github.com/go-basic/uuid"
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/framework/session"
+	"github.com/quarkcms/quark-fiber/pkg/framework/session"
 )
 
 type Captcha struct{}

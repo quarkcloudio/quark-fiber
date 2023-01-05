@@ -1,8 +1,8 @@
 package database
 
 import (
-	"github.com/quarkcms/quark-go/internal/models"
-	"github.com/quarkcms/quark-go/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/internal/models"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
 )
 
 type Migrate struct{}

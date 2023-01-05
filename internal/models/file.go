@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/quarkcms/quark-go/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
 )
 
 // 字段

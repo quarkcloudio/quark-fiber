@@ -6,9 +6,9 @@ import (
 	netHttp "net/http"
 	_ "net/http/pprof"
 
-	"github.com/quarkcms/quark-go/config"
-	"github.com/quarkcms/quark-go/internal/console"
-	"github.com/quarkcms/quark-go/internal/http"
+	"github.com/quarkcms/quark-fiber/config"
+	"github.com/quarkcms/quark-fiber/internal/console"
+	"github.com/quarkcms/quark-fiber/internal/http"
 )
 
 //go:embed assets/*

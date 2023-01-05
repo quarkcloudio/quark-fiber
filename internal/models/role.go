@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"github.com/quarkcms/quark-go/pkg/framework/db"
+	"github.com/quarkcms/quark-fiber/pkg/framework/db"
 )
 
 // 角色

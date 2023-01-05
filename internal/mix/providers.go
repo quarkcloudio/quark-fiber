@@ -1,8 +1,8 @@
 package mix
 
 import (
-	"github.com/quarkcms/quark-go/internal/mix/resources/forms"
-	"github.com/quarkcms/quark-go/internal/mix/resources/pages"
+	"github.com/quarkcms/quark-fiber/internal/mix/resources/forms"
+	"github.com/quarkcms/quark-fiber/internal/mix/resources/pages"
 )
 
 // 注册服务

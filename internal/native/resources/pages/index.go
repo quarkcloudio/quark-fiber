@@ -2,7 +2,7 @@ package pages
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/ui/native/resources"
+	"github.com/quarkcms/quark-fiber/pkg/ui/native/resources"
 )
 
 type Index struct {

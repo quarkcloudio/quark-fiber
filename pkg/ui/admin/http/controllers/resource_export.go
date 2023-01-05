@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/quarkcms/quark-go/pkg/framework/msg"
-	"github.com/quarkcms/quark-go/pkg/framework/rand"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/http/requests"
-	"github.com/quarkcms/quark-go/pkg/ui/admin/utils"
+	"github.com/quarkcms/quark-fiber/pkg/framework/msg"
+	"github.com/quarkcms/quark-fiber/pkg/framework/rand"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/http/requests"
+	"github.com/quarkcms/quark-fiber/pkg/ui/admin/utils"
 	"github.com/xuri/excelize/v2"
 )
 
